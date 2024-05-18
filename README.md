@@ -42,15 +42,22 @@ Provide e-waste facilities with a dashboard showcasing real-time analytics and i
 
 ## Technology Stack
 React.js
+
 Node.js 
+
 PostgreSQL
+
 Google maps
+
 Firebox Authenticator
+
 Git , Postman or Insomnia
 
 ## Dependencies
 
 Mapping service- 10 days
+
 Data collection- 10 days
+
 budget- rs.50,000
 
