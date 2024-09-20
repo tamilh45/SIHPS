@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 08-05-2024
-## Register Number: 212221040009
-## Name: AJAY SURYA S
+# Date: 20/09/2024
+## Register Number: 212223110058
+## Name: Tamil Pavalan
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
