@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-## Date: 06-05-2024
-## Name: Akshai Khanna D
-## Register Number: 212223040010
+## Date: 20/09/2024
+## Name: Tamil Pavalan
+## Register Number: 212223110058
 
 ## Problem Title
 E-Waste Facility Locator
